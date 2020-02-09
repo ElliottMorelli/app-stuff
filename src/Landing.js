@@ -15,44 +15,38 @@ export default class Landing extends Component {
             <div className="panel-landing text-center mt-3">
               <h1 className="landing-heading">REBL One</h1>
               <p className="lead">
-                A Foundation for Making Apps using
-                React&nbsp;and&nbsp;Blockstack.
+                A Computer Science Student just trying to get along.
               </p>
 
               <p className="alert alert-info  border-info">
-                REBL One is an{' '}
+                Ella Morelli is a{' '}
                 <a
                   href="https://github.com/REBL-Stack/starter-app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  open source
+                  cool enby
                 </a>{' '}
-                project providing a minimalistic Blockstack starter app, with
-                the purpose of{' '}
+                living their{' '}
                 <strong>
-                  helping software developers like you quickly get going with
-                  Blockstack&nbsp;app&nbsp;development.
+                  &nbsp;app&nbsp;best life.
                 </strong>
               </p>
 
               <div className="card mt-4 border-info">
                 <div className="card-header">
-                  <h5 className="card-title">About Blockstack</h5>
+                  <h5 className="card-title">About Ella</h5>
                 </div>
                 <div className="row">
                   <div className="col col-md-6 p-4 text-right border-right">
                     <a
-                      href="https://blockstack.org/about"
+                      href="https://www.linkedin.com/in/gmorelli37/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Blockstack PBC
+                      Ella Morelli
                     </a>{' '}
-                    is a New York based public benefit corporation, creating a
-                    decentralized computing network and app ecosystem designed
-                    to protect digital rights including privacy and
-                    data&nbsp;ownership.
+                    is a Barnard Computer Science and Visual Art student located in NY, NY. &nbsp;
                   </div>
                   <div className="col col-md-6 p-4 text-left border-left">
                     <a
@@ -60,25 +54,20 @@ export default class Landing extends Component {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Blockstack awards more than $300K/month
+                      Placeholder Area
                     </a>{' '}
-                    to the best apps on the platform, increasing to a million
-                    dollars a month from May 2020. Use REBL One to make a web
-                    app and start earning your share already next&nbsp;month.
+                    what is over &nbsp;here.
                   </div>
                 </div>
               </div>
 
               <div className="card mt-4 border-info">
                 <div className="card-header">
-                  <h5 className="card-title">Starter App Demo</h5>
+                  <h5 className="card-title">Ella's placeholder</h5>
                 </div>
                 <div className="card-body">
                   <p className="card-text mb-3 mt-4 mx-5 px-5">
-                    Check out the minimalistic functionality of the starter app.
-                    After signing in and authenticating with Blockstack, you can
-                    view your personal profile and save a note to Blockstack's
-                    online&nbsp;storage,&nbsp;Gaia.
+                    Placeholder Text, &nbsp;Yay,&nbsp;Wohoo.
                   </p>
                 </div>
 
@@ -88,45 +77,22 @@ export default class Landing extends Component {
 
                 <div className="card-footer text-info">
                   <strong>
-                    Build on this basic core to make amazing&nbsp;apps.
+                    email me @ gnm2123@barnard.edu
                   </strong>
                 </div>
               </div>
 
               <div className="card mt-4  border-info">
                 <div className="card-header">
-                  <h5 classNme="card-title">Quick Deployment</h5>
+                  <h5 classNme="card-title">Check out my LinkedIn</h5>
                 </div>
                 <div className="card-body">
-                  <p className="card-text mx-5 my-3">
-                    Assuming you have accounts on{' '}
-                    <a
-                      href="https://github.com"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Github
-                    </a>
-                    &nbsp; and{' '}
-                    <a
-                      href="https://netlify.com"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Netlify
-                    </a>{' '}
-                    you can automatically{' '}
-                    <strong>
-                      generate and host for free a website that has
-                      your&nbsp;own&nbsp;clone&nbsp;of&nbsp;this&nbsp;starter&nbsp;app:
-                    </strong>
-                  </p>
                   <a
                     className="btn btn-secondary p-0"
                     type="button"
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://app.netlify.com/start/deploy?repository=https://github.com/REBL-Stack/starter-app"
+                    href="https://www.linkedin.com/in/gmorelli37/"
                   >
                     <img
                       src="/proxy/www.netlify.com/img/deploy/button.svg"
@@ -135,8 +101,7 @@ export default class Landing extends Component {
                   </a>
                 </div>
                 <div className="card-footer">
-                  Use the deployed app as a staring point for your app project.
-                  We're looking forward to see what you're making.
+                  This web-app made using Blockstack.
                 </div>
               </div>
             </div>
