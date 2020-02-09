@@ -22,7 +22,7 @@ inspect {
 }
 
 .Landing {
-  background-image: url(/proxy/rebl.run/media/arthur-edelman-YiZ_C5H0x5Y-unsplash.jpg);
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/70/Aachener_Wald_-_geo.hlipp.de_-_5415.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -51,6 +51,6 @@ inspect {
 }
 
 .panel-landing {
-  max-width: 50em;
+  max-width: 70em;
   margin: auto;
 }
