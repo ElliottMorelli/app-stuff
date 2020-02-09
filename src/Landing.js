@@ -13,7 +13,7 @@ export default class Landing extends Component {
         <div className="jumbotron jumbotron-fluid pt-3 mb-0">
           <div className="container">
             <div className="panel-landing text-center mt-3">
-              <h1 className="landing-heading">REBL One</h1>
+              <h1 className="landing-heading">ELLA MORELLI</h1>
               <p className="lead">
                 A Computer Science Student just trying to get along.
               </p>
@@ -29,7 +29,7 @@ export default class Landing extends Component {
                 </a>{' '}
                 living their{' '}
                 <strong>
-                  &nbsp;app&nbsp;best life.
+                  &nbsp;&nbsp;best life.
                 </strong>
               </p>
 
@@ -56,7 +56,7 @@ export default class Landing extends Component {
                     >
                       Placeholder Area
                     </a>{' '}
-                    what is over &nbsp;here.
+                    what is over here.
                   </div>
                 </div>
               </div>
