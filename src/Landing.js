@@ -19,13 +19,7 @@ export default class Landing extends Component {
               </p>
 
               <p className="alert alert-info  border-info">
-                Ella Morelli is a{' '}
-                <a
-                  href="https://github.com/REBL-Stack/starter-app"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  cool enby
+                Ella Morelli is a cool enby
                 </a>{' '}
                 living their{' '}
                 <strong>
@@ -50,7 +44,7 @@ export default class Landing extends Component {
                   </div>
                   <div className="col col-md-6 p-4 text-left border-left">
                     <a
-                      href="https://app.co/mining"
+                      href="https://www.linkedin.com/in/gmorelli37/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
